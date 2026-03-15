@@ -11,7 +11,6 @@
 
 [LinkedIn](https://www.linkedin.com/in/mohit-guragain-8bbab9374/) 
 [GitHub](https://github.com/MOhitGuragain/)
-[Facebook](Mohit Guragain)
 [Instagram](mohit._lol)
 
 ---
