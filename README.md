@@ -21,6 +21,7 @@
 ### Languages and Tools
 
 <p>
+<img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original-wordmark.svg" width ="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
